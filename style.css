@@ -28,6 +28,7 @@
     width: 150px;
     position: absolute;
     bottom: 0;
+    filter: invert(100%)
     
     
 }
